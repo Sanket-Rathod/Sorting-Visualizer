@@ -1,0 +1,29 @@
+.arrayContainer{
+    position:absolute;
+    left:100px;
+}
+
+.arrayBar{
+    width:20px;
+    background-color:white;
+    display: inline-block;
+    margin: 0 1px;
+
+}
+
+.btnClass{
+    background-color:skyblue;
+    margin: 0 10px;
+}
+
+.speedStyle{
+    left : 180px;
+    bottom: 0 px;
+    height: fit-content;
+    width: fit-content;
+    position: absolute;
+    color: skyblue;
+    
+}
+
+
